@@ -1,0 +1,11 @@
+buy.jpg=3 (200*200)
+category.jpg=3 (550*604) (done)
+gallery.jpg=3 (600*600)
+image1.png=1 (2094*1806)
+logo-white.png=1 (300*89) done
+product-1.png to product-11.png =11 (1080*1440)
+user.png=3 (200*200) done
+
+
+
+background: radial-gradient(#fff,#ffd6d6);
