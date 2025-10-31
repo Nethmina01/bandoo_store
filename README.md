@@ -87,3 +87,8 @@ loadComponent("newsletter", "components/newsletter.html");
 OR (auto-load method)
 
 //<div data-component="newsletter"></div>
+
+License
+
+This project is open source and available for learning purposes.
+Feel free to fork, modify, and extend it for personal or educational use.
